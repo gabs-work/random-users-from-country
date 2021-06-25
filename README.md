@@ -1,8 +1,8 @@
-# Gabs' Submission
+# Random Users From Country
 
 ## Introduction
 
-Greetings to the dev team at InvoiceSimple! I'm Gabs and this is my submission for the coding challenge.
+This is a submission for a job interview I've made last month.
 
 ## Assumptions
 
