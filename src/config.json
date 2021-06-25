@@ -1,0 +1,8 @@
+{
+  "port": 8000,
+  "nationalizeClientURL": "https://api.nationalize.io",
+  "randomUserClientURL": "https://randomuser.me/api/",
+  "validLocations": ["AU","BR","CA","CH","DE","DK","ES","FI","FR","GB","IE","IR","NO","NL","NZ","TR","US"],
+  "numberOfReturnedUsers": 50,
+  "numberOfGeneratedUsers": 200
+}

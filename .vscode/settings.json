@@ -1,0 +1,11 @@
+{
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.postDeployTask": "npm install",
+    "azureFunctions.projectLanguage": "TypeScript",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "npm prune",
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "/usr/bin/python3",
+    "compile-hero.disable-compile-files-on-did-save-code": true
+}
